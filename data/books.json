@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Abcd",
+    "author": "Richard",
+    "price": 2000,
+    "pages": 300
+  },
+  {
+    "name": "Efgh",
+    "author": "Richard",
+    "price": 1000,
+    "pages": 400
+  },
+  {
+    "name": "Ijkl",
+    "author": "Richard",
+    "price": 3000,
+    "pages": 500
+  },
+  {
+    "name": "Mnop",
+    "author": "Richard",
+    "price": 400,
+    "pages": 100
+  },
+  {
+    "name": "Qrst",
+    "author": "Richard",
+    "price": 500,
+    "pages": 300
+  }
+]
